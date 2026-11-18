@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Statusly.Core/Statusly.Core.csproj" />
+  <Project Path="Statusly.Data/Statusly.Data.csproj" />
+  <Project Path="Statusly.Tests/Statusly.Tests.csproj" />
+  <Project Path="Statusly.Web/Statusly.Web.csproj" />
+  <Project Path="Statusly.Worker/Statusly.Worker.csproj" />
+</Solution>
